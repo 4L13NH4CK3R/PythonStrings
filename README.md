@@ -9,7 +9,7 @@ We can print a single line like so;
 print("Hello World")
 ```
   
-And then we can have multiple lines of strings display on different lines;
+And then we can have multiple lines of strings display on different lines;  
 **Example #1;**
 ```
 print("Hello")
